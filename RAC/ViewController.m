@@ -45,7 +45,7 @@
     // test button
 //    [self testLoginBt];
     // test delegate
-    [self delegateDemo];
+//    [self delegateDemo];
     
     //NSNotificationCenter
     [self notifaction];
